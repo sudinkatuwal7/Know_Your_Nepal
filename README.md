@@ -21,9 +21,9 @@ Type district names to label them on the Nepal map. If you exit early, the progr
 - Each time you guess a correct district, it gets added to `guessed_districts`
 - A turtle writes the district name on the map at its `(x, y)` position
 - If you type **Exit**, it saves all unguessed districts to:
-
+```
 `failed_to_guess.csv`
-
+```
 ---
 
 ## 📁 Project Structure
