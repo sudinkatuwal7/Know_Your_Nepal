@@ -1,4 +1,4 @@
-# 🇳🇵 Nepal Districts Game
+# 🇳🇵 Know Your Nepal Game
 
 An interactive Nepal Districts guessing game built using **Python Turtle** and **Pandas**.  
 Type district names to label them on the Nepal map. If you exit early, the program generates a CSV file containing the districts you missed so you can learn them later.
